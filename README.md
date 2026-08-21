@@ -127,22 +127,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
-
-## <img src="https://monochrome-emojis.vercel.app/lucid?bar-chart-3=purple" width="25" height="25" align="top"/> GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimur-rooted&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
-
-<div align="center">
-
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
-
-![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naimur-rooted&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4390,100:945acb&height=100&section=footer" width="100%"/>
