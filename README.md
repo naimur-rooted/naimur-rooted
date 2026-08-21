@@ -8,14 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=5C4390&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Flutter+%26+React+Enthusiast;FastAPI+%26+PostgreSQL+Backend;I+turn+bugs+into+teachable+moments" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=5C4390&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Multiplatform+Flutter+Developer;Flutter+%26+React+Enthusiast;FastAPI+%26+PostgreSQL+Backend;I+turn+bugs+into+teachable+moments" alt="Typing SVG">
   </a>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://monochrome-emojis.vercel.app/emoji?person_computer=purple" width="20" height="20" align="top"/> Full Stack Developer
+  <img src="https://monochrome-emojis.vercel.app/emoji?person_computer=purple" width="20" height="20" align="top"/> Full Stack Multiplatform Flutter Developer
   &nbsp;|&nbsp;
   <img src="https://monochrome-emojis.vercel.app/emoji?target=purple" width="20" height="20" align="top"/> Problem Solver
   &nbsp;|&nbsp;
@@ -123,6 +123,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -132,15 +133,15 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimur-rooted&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naimur-rooted&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimur-rooted&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naimur-rooted&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
