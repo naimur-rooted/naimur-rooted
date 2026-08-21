@@ -36,7 +36,7 @@
 ## <img src="https://monochrome-emojis.vercel.app/emoji?rocket=purple" width="25" height="25" align="top"/> Currently
 
 - <img src="https://monochrome-emojis.vercel.app/lucid?triangle-right=purple" width="20" height="20" align="absmiddle"/> Exploring **Enterprise ERP Architecture** and role-based access control
-- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter Full Stack Multiplatform Web Development** and API integration
+- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter Full Stack Multiplatform App Development** and API integration
 - <img src="https://monochrome-emojis.vercel.app/emoji?gear=purple" width="20" height="20" align="absmiddle"/> Deepening **PostgreSQL** and production-grade database design skills
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td align="center"><strong>2026</strong></td>
-    <td>Flutter Full Stack Multiplatform Web Developer</td>
+    <td>Flutter Full Stack Multiplatform App Developer</td>
     <td align="center"><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> In Progress</td>
   </tr>
   <tr>
