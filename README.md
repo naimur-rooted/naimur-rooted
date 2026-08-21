@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://monochrome-emojis.vercel.app/emoji?person_computer=purple" width="20" height="20" align="top"/> Full Stack Multiplatform Flutter Developer
+  <img src="https://monochrome-emojis.vercel.app/emoji?person_computer=purple" width="20" height="20" align="top"/> Full Stack Developer
   &nbsp;|&nbsp;
   <img src="https://monochrome-emojis.vercel.app/emoji?target=purple" width="20" height="20" align="top"/> Problem Solver
   &nbsp;|&nbsp;
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><strong>2026</strong></td>
-    <td>Build enterprise-grade ERP systems and deepen Flutter mobile development</td>
+    <td>Build enterprise-grade ERP systems & Flutter development</td>
     <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> In Progress</td>
   </tr>
   <tr>
