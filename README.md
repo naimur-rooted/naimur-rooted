@@ -88,6 +88,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
+## <img src="https://monochrome-emojis.vercel.app/lucid?bar-chart-3=purple" width="25" height="25" align="top"/> GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=naimur-rooted&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
+
 ## <img src="https://monochrome-emojis.vercel.app/emoji?laptop=purple" width="25" height="25" align="top"/> Tech Stack
 
 ### <img src="https://monochrome-emojis.vercel.app/emoji?brain=purple" width="22" height="22" align="top"/> Languages
