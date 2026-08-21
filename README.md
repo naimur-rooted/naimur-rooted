@@ -92,13 +92,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimur-rooted&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
 
 </div>
 
 <div align="center">
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=naimur-rooted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naimur-rooted&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
