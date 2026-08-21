@@ -19,7 +19,7 @@
   &nbsp;|&nbsp;
   <img src="https://monochrome-emojis.vercel.app/emoji?target=purple" width="20" height="20" align="top"/> Problem Solver
   &nbsp;|&nbsp;
-  <img src="https://monochrome-emojis.vercel.app/lucid?puzzle=purple" width="20" height="20" align="texttop"/> ERP & ML Explorer
+  <img src="https://monochrome-emojis.vercel.app/lucid?puzzle=purple" width="20" height="20" align="top"/> ERP & ML Explorer
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -33,10 +33,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
-## <img src="https://monochrome-emojis.vercel.app/emoji?rocket=purple" width="25" height="25" align="absmiddle"/> Currently
+## <img src="https://monochrome-emojis.vercel.app/emoji?rocket=purple" width="25" height="25" align="top"/> Currently
 
 - <img src="https://monochrome-emojis.vercel.app/lucid?triangle-right=purple" width="20" height="20" align="absmiddle"/> Exploring **Enterprise ERP Architecture** and role-based access control
-- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter mobile development** and API integration
+- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter multiplatform development** and API integration
 - <img src="https://monochrome-emojis.vercel.app/emoji?gear=purple" width="20" height="20" align="absmiddle"/> Deepening **PostgreSQL** and production-grade database design skills
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><strong>2026</strong></td>
-    <td>Build enterprise-grade ERP systems & Flutter development</td>
+    <td>Build enterprise-grade ERP systems & Full Stack Multiplatform Flutter Developer</td>
     <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> In Progress</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### <img src="https://monochrome-emojis.vercel.app/lucid?database=purple" width="22" height="22" align="texttop"/> Databases
+### <img src="https://monochrome-emojis.vercel.app/lucid?database=purple" width="22" height="22" align="top"/> Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
