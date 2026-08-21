@@ -36,7 +36,7 @@
 ## <img src="https://monochrome-emojis.vercel.app/emoji?rocket=purple" width="25" height="25" align="top"/> Currently
 
 - <img src="https://monochrome-emojis.vercel.app/lucid?triangle-right=purple" width="20" height="20" align="absmiddle"/> Exploring **Enterprise ERP Architecture** and role-based access control
-- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter multiplatform development** and API integration
+- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Learning **Flutter Full Stack Multiplatform Web Development** and API integration
 - <img src="https://monochrome-emojis.vercel.app/emoji?gear=purple" width="20" height="20" align="absmiddle"/> Deepening **PostgreSQL** and production-grade database design skills
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -65,24 +65,24 @@
 
 <table>
   <tr>
-    <th>Year</th>
-    <th>Goals</th>
-    <th>Status</th>
+    <th align="center" style="background: linear-gradient(135deg, #5C4390, #945acb); color: white; padding: 8px 16px;">Year</th>
+    <th align="center" style="background: linear-gradient(135deg, #5C4390, #945acb); color: white; padding: 8px 16px;">Goals</th>
+    <th align="center" style="background: linear-gradient(135deg, #5C4390, #945acb); color: white; padding: 8px 16px;">Status</th>
   </tr>
   <tr>
-    <td><strong>2025</strong></td>
+    <td align="center"><strong>2025</strong></td>
     <td>Master full-stack development with React, FastAPI, and PostgreSQL</td>
-    <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> Done</td>
+    <td align="center"><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> Done</td>
   </tr>
   <tr>
-    <td><strong>2026</strong></td>
-    <td>Build enterprise-grade ERP systems & Full Stack Multiplatform Flutter Developer</td>
-    <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> In Progress</td>
+    <td align="center"><strong>2026</strong></td>
+    <td>Flutter Full Stack Multiplatform Web Developer</td>
+    <td align="center"><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> In Progress</td>
   </tr>
   <tr>
-    <td><strong>2027</strong></td>
+    <td align="center"><strong>2027</strong></td>
     <td>Contribute to open-source projects and explore AI-integrated applications</td>
-    <td><img src="https://monochrome-emojis.vercel.app/emoji?lock=purple" width="16" height="16" align="texttop"/> Upcoming</td>
+    <td align="center"><img src="https://monochrome-emojis.vercel.app/emoji?lock=purple" width="16" height="16" align="texttop"/> Upcoming</td>
   </tr>
 </table>
 
